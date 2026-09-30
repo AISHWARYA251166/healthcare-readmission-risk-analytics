@@ -1,0 +1,7 @@
+{
+  "name": "Healthcare Readmission & Risk Analytics",
+  "description": "Predictive hospital readmission analytics, clinical feature engineering, HIPAA-compliant data masking, and executive/clinical risk dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
